@@ -1,0 +1,2 @@
+model_checkpoint_path: "trained-model-431236.ckpt"
+all_model_checkpoint_paths: "trained-model-431236.ckpt"
